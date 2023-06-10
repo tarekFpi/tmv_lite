@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249209864468",
+    "project_id": "tmv-lite-5bf5a",
+    "storage_bucket": "tmv-lite-5bf5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249209864468:android:1bba70ecefa2d8c18bc201",
+        "android_client_info": {
+          "package_name": "com.bondstein.tmv.lite.tmv_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249209864468-u0aonlkqvluhu9pi9h938mdstsvogeme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmD5_Q9JPFjA4ilYHt1nVd9B1Le-1ptU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249209864468-u0aonlkqvluhu9pi9h938mdstsvogeme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
